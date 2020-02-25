@@ -5,3 +5,5 @@ Vous trouverez dans ce repository le fichier de code que j'ai réalisé (Program
 La bibliothèque CmdCrf.dll ainsi que l'exécutable RouCaf.exe m'ont été fourni par les professeurs.
 
 Enfin le rapport contient les informations sur le projet et le fonctionnement du code.
+
+Ce projet a été réalisé en 2016
